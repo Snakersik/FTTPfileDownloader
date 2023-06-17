@@ -1,0 +1,18 @@
+{
+    "Profile name": {
+        "ftp_server": "FTP server",
+        "username": "Username",
+        "password": "Password",
+        "download_destination": "Destination folder",
+        "ftp_path": "Files location on FTP",
+        "host": "Host"
+    },
+    "test": {
+        "ftp_server": "test",
+        "username": "test",
+        "password": "test",
+        "download_destination": "test",
+        "ftp_path": "test",
+        "host": "Host"
+    }
+}
